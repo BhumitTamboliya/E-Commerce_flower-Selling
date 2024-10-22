@@ -461,22 +461,7 @@ section {
         line-height: 1.1;
     }
     .home{
-        height: 85vh;
+        height: 120vh;
     }
 }
 
-
-@media (max-width: 640px) {
-    :root {
-        --big-font: 3.8rem;
-        --h2-font: 2rem;
-        --p-font: 1.1rem;
-    }
-
-    .home-text h1{
-        line-height: 1.1;
-    }
-    .home{
-        height: 85vh;
-    }
-}
